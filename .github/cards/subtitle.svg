@@ -21,8 +21,8 @@
         letter-spacing="0.04em"
         dominant-baseline="middle"
         text-anchor="middle">
-    <tspan>UI/UX Designer · </tspan>
+    <tspan>Tool Developer · </tspan>
     <tspan fill="url(#subtitleGrad)">Full-Stack Developer</tspan>
-    <tspan> · Bot Developer</tspan>
+    <tspan> · API Developer</tspan>
   </text>
 </svg>
