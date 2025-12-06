@@ -60,27 +60,27 @@
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Architect secure, scalable backend systems
+    • Build secure, scalable backend &amp; API systems
   </text>
 
   <text x="24" y="104"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Ship polished web &amp; mobile products end-to-end
+    • Develop full-stack products from idea to deployment
   </text>
 
   <text x="24" y="124"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Design automation pipelines &amp; cloud deployments
+    • Automate workflows &amp; manage cloud infrastructure
   </text>
 
   <text x="24" y="144"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Build tooling that accelerates shipping velocity
+    • Create developer tooling that improves productivity
   </text>
 </svg>
