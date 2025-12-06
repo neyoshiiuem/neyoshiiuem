@@ -57,8 +57,8 @@
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="10.5"
         font-style="italic">
-    "Any fool can write code that a computer can understand.
-    <tspan x="24" dy="13">Good programmers write code that humans can understand." - Martin Fowler</tspan>
+    "Great developers don’t just build features —
+    <tspan x="24" dy="13">they craft the tools that elevate everyone else."</tspan>
   </text>
 
   <!-- Divider -->
@@ -71,27 +71,27 @@
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Backend architecture &amp; distributed systems
+    • Full-stack product engineering &amp; high-quality user experiences
   </text>
 
   <text x="24" y="134"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • DevOps automation, platform engineering &amp; security-by-design
+    • Automation, tooling, CLI frameworks &amp; developer experience (DX) engineering
   </text>
 
   <text x="24" y="154"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Full-stack product engineering
+    • Backend systems, API design, distributed architecture &amp; performance tuning
   </text>
 
   <text x="24" y="174"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Write clean, maintainable code with thoughtful abstraction
+    • Building clean, composable, maintainable code with strong abstraction discipline
   </text>
 </svg>
