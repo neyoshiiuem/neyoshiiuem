@@ -59,7 +59,7 @@
         font-size="10.5"
         font-style="italic">
     "Any fool can write code that a computer can understand.
-    <tspan x="24" dy="13">Good programmers write code that humans can understand." - Martin Fowler</tspan>
+    <tspan x="24" dy="13">Good programmers write code that humans can understand."</tspan>
   </text>
 
   <!-- Divider -->
