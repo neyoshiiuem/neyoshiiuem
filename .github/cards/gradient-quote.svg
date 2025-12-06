@@ -12,7 +12,7 @@
         font-weight="600"
         fill="url(#quoteGradient)"
         text-anchor="middle">
-    Simple systems win. Secure systems endure.
+    Build simple. Defend strong.
   </text>
 
   <text x="50%" y="65"
@@ -21,6 +21,6 @@
         font-weight="600"
         fill="url(#quoteGradient)"
         text-anchor="middle">
-    Curious minds build better things.
+    Curiosity fuels creation.
   </text>
 </svg>
