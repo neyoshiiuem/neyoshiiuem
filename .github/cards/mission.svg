@@ -71,27 +71,27 @@
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Full-stack Developer
+    • Full-stack product engineering
   </text>
 
   <text x="24" y="134"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Automation, tooling, CLI frameworks
+    • Tooling, automation & developer experience
   </text>
 
   <text x="24" y="154"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Backend systems, API design
+    • Backend systems & distributed architecture
   </text>
 
   <text x="24" y="174"
         fill="#b4b4b4"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
         font-size="12">
-    • Building clean, composable
+    • Clean, maintainable code with solid abstractions
   </text>
 </svg>
